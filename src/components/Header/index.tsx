@@ -26,7 +26,7 @@ const Header: React.FC<HeaderProps> = ({ text }) => {
     localStorage.removeItem('@Joke:name');
 
     history.push('/');
-  }, []);
+  }, [history]);
 
   return (
     <header>

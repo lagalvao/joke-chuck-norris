@@ -47,4 +47,10 @@ export const useStyles = makeStyles((theme) => ({
       alignItems: 'center',
     },
   },
+  limitador: {
+    maxWidth: '80%',
+    overflow: 'hidden',
+    textOverflow: 'ellipsis',
+    whiteSpace: 'nowrap',
+  },
 }));

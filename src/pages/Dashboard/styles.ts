@@ -17,4 +17,10 @@ export const useStyles = makeStyles((theme) => ({
       background: '#FFFFFF',
     },
   },
+  quantityZero: {
+    fontSize: '25px',
+    fontFamily: 'Poppins',
+    fontWeight: 700,
+    marginLeft: theme.spacing(28),
+  },
 }));
