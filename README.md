@@ -15,7 +15,7 @@
 
 <h3>✔ Demostração da aplicação</h3>
 <h1 align="center">
-  <img alt="Joke" src="./src/assets/app.jpg" />
+  <img alt="Joke" src="./src/assets/app.jpeg" />
 </h1>
 
 <h3>✔ Pré-requisitos e como rodar a aplicação</h3>
