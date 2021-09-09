@@ -4,7 +4,7 @@
 <h3>✔ Status do projeto</h3>
 <h4>Projeto em construção... 🧱</h4>
 
-### ā Features
+### ✔ Features
 
 - [x] - Acessar o sistema com seu nome
 - [x] - Listar piadas
